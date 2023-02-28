@@ -1,0 +1,3 @@
+git fetch --all [To fetch all remote branches]
+git pull [To pull changes from origi's main branch]
+
